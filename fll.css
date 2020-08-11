@@ -1,0 +1,30 @@
+
+.fl{
+	width: 400px;
+	height: 200px;
+	border: 2px solid red;
+	float: left;
+	border-radius: 20px;
+	margin: 100px;
+}
+.fl:hover{
+	box-shadow: 10px 10px 15px black;
+}
+.font{
+	width: 200px;
+	height: 150px;
+	margin: 10px;
+	text-align: center;
+	display: inline-box;
+	margin: 10px;
+	border: 2px dashed black;
+	background-color: yellow;
+}
+img{
+	width: 400px;
+	height: 200px;
+	border-radius: 10px;
+}
+h1{
+	color: DarkGoldenRod;
+}
